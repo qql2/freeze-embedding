@@ -11,6 +11,18 @@
 	"keywords": [],
 	"author": "",
 	"license": "MIT",
+	"dependencies": {
+		"@qql2/remark-obsidian": "^1.0.3",
+		"rehype-parse": "^9.0.1",
+		"rehype-remark": "^10.0.1",
+		"rehype-stringify": "^10.0.1",
+		"remark": "^15.0.1",
+		"remark-freeze": "^1.0.1",
+		"remark-frontmatter": "^5.0.0",
+		"remark-gfm": "^4.0.1",
+		"remark-stringify": "^11.0.0",
+		"unified": "^11.0.5"
+	},
 	"devDependencies": {
 		"@types/node": "^16.11.6",
 		"@typescript-eslint/eslint-plugin": "5.29.0",

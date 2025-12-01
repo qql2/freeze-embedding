@@ -11,6 +11,9 @@ importers:
       '@qql2/remark-obsidian':
         specifier: ^1.0.3
         version: 1.0.3
+      debug:
+        specifier: ^4.4.3
+        version: 4.4.3
       rehype-parse:
         specifier: ^9.0.1
         version: 9.0.1
@@ -39,6 +42,9 @@ importers:
         specifier: ^11.0.5
         version: 11.0.5
     devDependencies:
+      '@types/debug':
+        specifier: ^4.1.12
+        version: 4.1.12
       '@types/node':
         specifier: ^16.11.6
         version: 16.18.126

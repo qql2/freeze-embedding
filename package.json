@@ -24,6 +24,8 @@
 		"unified": "^11.0.5"
 	},
 	"devDependencies": {
+		"debug": "^4.4.3",
+		"@types/debug": "^4.1.12",
 		"@types/node": "^16.11.6",
 		"@typescript-eslint/eslint-plugin": "5.29.0",
 		"@typescript-eslint/parser": "5.29.0",
